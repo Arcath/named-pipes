@@ -1,6 +1,6 @@
 {
   "name": "named-pipes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "https://github.com/Arcath/named-pipes",
   "description": "Windows named pipes for node",
   "main": "lib/named-pipes.js",
